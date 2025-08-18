@@ -202,7 +202,7 @@
 	</url>
   <url>
 		<loc>https://www.roundtable.center/protocols.htm</loc>
-		<lastmod>2025-08-15T19:30:00+03:00</lastmod>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
   <url>
@@ -267,6 +267,21 @@
   <url>
 		<loc>https://www.roundtable.center/protocols/ag85dcf1.htm</loc>
 		<lastmod>2025-08-15T19:30:00+03:00</lastmod>
+		<priority>1</priority>
+	</url>
+  <url>
+		<loc>https://www.roundtable.center/protocols/ag85osif1.htm</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
+		<priority>1</priority>
+	</url>
+  <url>
+		<loc>https://www.roundtable.center/protocols/ag85osif2.htm</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
+		<priority>1</priority>
+	</url>
+  <url>
+		<loc>https://www.roundtable.center/protocols/ag85if1.htm</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
   <url>
@@ -522,6 +537,111 @@
 	<url>
 		<loc>https://www.roundtable.center/textdocuments/Dictionary compression format AG85DCF1.txt</loc>
 		<lastmod>2025-08-15T19:30:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+  <url>
+		<loc>https://www.roundtable.center/textdocuments/Ordered set of integers format AG85OSIF1.odt</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.roundtable.center/textdocuments/Ordered set of integers format AG85OSIF1.rtf</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.roundtable.center/textdocuments/Ordered set of integers format AG85OSIF1.pdf</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.roundtable.center/textdocuments/Ordered set of integers format AG85OSIF1.epub</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.roundtable.center/textdocuments/Ordered set of integers format AG85OSIF1.htm</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.roundtable.center/textdocuments/Ordered set of integers format AG85OSIF1.doc</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.roundtable.center/textdocuments/Ordered set of integers format AG85OSIF1.txt</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+  <url>
+		<loc>https://www.roundtable.center/textdocuments/Ordered set of integers format AG85OSIF2.odt</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.roundtable.center/textdocuments/Ordered set of integers format AG85OSIF2.rtf</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.roundtable.center/textdocuments/Ordered set of integers format AG85OSIF2.pdf</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.roundtable.center/textdocuments/Ordered set of integers format AG85OSIF2.epub</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.roundtable.center/textdocuments/Ordered set of integers format AG85OSIF2.htm</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.roundtable.center/textdocuments/Ordered set of integers format AG85OSIF2.doc</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.roundtable.center/textdocuments/Ordered set of integers format AG85OSIF2.txt</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+  <url>
+		<loc>https://www.roundtable.center/textdocuments/Integer format AG85IF1.odt</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.roundtable.center/textdocuments/Integer format AG85IF1.rtf</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.roundtable.center/textdocuments/Integer format AG85IF1.pdf</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.roundtable.center/textdocuments/Integer format AG85IF1.epub</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.roundtable.center/textdocuments/Integer format AG85IF1.htm</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.roundtable.center/textdocuments/Integer format AG85IF1.doc</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.roundtable.center/textdocuments/Integer format AG85IF1.txt</loc>
+		<lastmod>2025-08-19T01:00:00+03:00</lastmod>
 		<priority>0.80</priority>
 	</url>
   <url>
